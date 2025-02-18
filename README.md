@@ -13,9 +13,15 @@ JPA/Hibernate
 Lombok
 Maven
 📌 Características
+
 ✔️ Listado de clientes con PrimeFaces
+
 ✔️ Registro, edición y eliminación de clientes
+
 ✔️ Diseño con PrimeFlex y estilos personalizados
+
 ✔️ Uso de Spring Boot para la lógica de negocio
+
 ✔️ Persistencia de datos en MySQL con JPA/Hibernate
+
 ✔️ Notificaciones en tiempo real con PrimeFaces Growl
